@@ -1,5 +1,7 @@
 # Facial Recognition Attendance System
 
+[![Watch the video](https://img.youtube.com/vi/Nw-wETbPsKo/0.jpg)](https://youtu.be/Nw-wETbPsKo)
+
 ## Project Overview
 This project demonstrates how to perform **facial recognition** with high accuracy. We will first cover the theory and basic implementation before building a **real-time attendance system** that detects faces via a webcam and records attendance in an **Excel (CSV) file**.
 
